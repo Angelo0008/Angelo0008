@@ -11,6 +11,3 @@
   </a>
   <!-- Add more icons similarly -->
 </p>
-
-## 📈 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelo0008&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
