@@ -2,7 +2,7 @@
 
 ## 🛠 Languages & Tools
 <p align="left">
-  <a href = "https://www.python.org/">
+  <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/>
   </a>
   <a>
