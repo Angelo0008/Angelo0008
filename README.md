@@ -1,6 +1,6 @@
-# Hi there, I'm Angelo 👋
+# Hi there, I'm Angelo
 
-## 🛠 Languages & Tools
+## Languages & Tools
 <p align="left">
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/>
