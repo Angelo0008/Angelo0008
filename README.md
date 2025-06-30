@@ -11,7 +11,7 @@
   <!-- Add more icons similarly -->
 </p>
 <h2>Tools</h1>
-<p>
+<p align="left">
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="50" height="50"/>
   </a>
