@@ -1,5 +1,8 @@
 # Hi there, I'm Angelo
 
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
+          
 ## Languages & Tools
 <p align="left">
   <a>
