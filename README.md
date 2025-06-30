@@ -1,6 +1,6 @@
 # Hi there, I'm Angelo
 
-<h1>Languages</h1>
+<h2>Languages</h1>
 <p align="left">
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/>
@@ -10,7 +10,7 @@
   </a>
   <!-- Add more icons similarly -->
 </p>
-<h1>Tools</h1>
+<h2>Tools</h1>
 <p>
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="50" height="50"/>
