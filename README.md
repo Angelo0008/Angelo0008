@@ -14,5 +14,8 @@
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="50" height="50"/>
   </a>
+  <a>
+    <img scr="https://upload.wikimedia.org/wikipedia/commons/6/69/Logo_Aseprite.svg" width="50" height="50"/>
+  </a>
   <!-- Add more icons similarly -->
 </p>
