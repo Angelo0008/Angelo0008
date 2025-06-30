@@ -10,7 +10,7 @@
   </a>
   <!-- Add more icons similarly -->
 </p>
-# Tools
+<h1>Tools</h1>
 <p>
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="50" height="50"/>
