@@ -17,9 +17,9 @@
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="50" height="50"/>
   </a>
-  <a>
-    <i class="devicon-unity-plain colored" font-size=12></i>
-  </a>
+  
+  <i class="devicon-unity-plain colored" font-size=12></i>
+  
           
   <!-- Add more icons similarly -->
 </p>
